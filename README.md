@@ -1,12 +1,5 @@
-<style>
-  h1, h2, h3, h4 {
-    margin-bottom: 0;
-    border-bottom: none;
-  }
-</style>
-
 <!-- Header -->
-<h1 align="center">Emil Djurson 👋</h1>
+<h1 align="center" style="margin-bottom: 0; border-bottom: none;">Emil Djurson 👋</h1>
 
 <!-- Animated subtitle -->
 <p align="center" style="margin-bottom: 0;">
@@ -25,7 +18,7 @@
 
 ---
 
-<h2>💬 About Me</h2>
+<h2 style="border-bottom: none;">💬 About Me</h2>
 <p>
   I’m Emil, a passionate computer science student based in Norrköping, Sweden. I’m passionate about machine learning, game development, and full-stack apps, and I love turning ideas into playful prototypes.  
   Here you’ll find a mix of academic labs, personal experiments, and open-source contributions
@@ -81,7 +74,7 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
 </p>
 
-<h2>📫 Get in Touch</h2>
+<h2 style="border-bottom: none;">📫 Get in Touch</h2>
 
 <p>
   I’m always open to collaborations, feedback, or just a friendly chat about code and tech.

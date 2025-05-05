@@ -25,7 +25,7 @@
 </p>
 
 <details open> 
-  <summary style="font-size: 18px; font-weight: bold;">🚀 Featured Projects</summary>
+  <summary style="font-size: 18px; font-weight: bold;"><h2>🚀 Featured Projects<h2></summary>
   <p align="left">
     <a href="https://github.com/Skill-issue-coding/ml-model-for-image-classification">
       <img width="350" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Skill-issue-coding&repo=ml-model-for-image-classification&hide_border=true&icon_color=F8D866" alt="ml-model-for-image-classification" />

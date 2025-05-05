@@ -2,7 +2,7 @@
 <h1 align="center" style="margin-bottom: 0; border-bottom: none;">Emil Djurson 👋</h1>
 
 <!-- Animated subtitle -->
-<p align="center" style="margin-bottom: 0;">
+<p align="center" style="margin: 0;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=8A8A8A&center=true&width=500&lines=Ackchyually+not+an+engineer%E2%98%9D%EF%B8%8F%F0%9F%A4%93+(yet)" 
          alt="Typing SVG" />
@@ -10,7 +10,7 @@
 </p>
 
 <!-- GitHub streak -->
-<p align="center">
+<p align="center" style="margin: 0;">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=Djurson&short_numbers=true&theme=icegray" alt="GitHub Streak" />
   </a>
@@ -28,16 +28,16 @@
   <summary style="font-size: 18px; font-weight: bold;">🚀 Featured Projects</summary>
   <p align="left">
     <a href="https://github.com/Skill-issue-coding/ml-model-for-image-classification">
-      <img width="350" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Skill-issue-coding&repo=ml-model-for-image-classification&theme=react&hide_border=true&icon_color=F8D866" alt="ml-model-for-image-classification" />
+      <img width="350" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Skill-issue-coding&repo=ml-model-for-image-classification&hide_border=true&icon_color=F8D866" alt="ml-model-for-image-classification" />
     </a>
     <a href="https://github.com/Skill-issue-coding/Docker-GO-NextJS-Test">
-      <img width="350" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Skill-issue-coding&repo=Docker-GO-NextJS-Test&theme=react&hide_border=true&icon_color=F8D866" alt="Docker-GO-NextJS-Test" />
+      <img width="350" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Skill-issue-coding&repo=Docker-GO-NextJS-Test&hide_border=true&icon_color=F8D866" alt="Docker-GO-NextJS-Test" />
     </a>
     <a href="https://github.com/Djurson/PayDay2-2D">
-      <img width="350" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Djurson&repo=PayDay2-2D&theme=react&hide_border=true&icon_color=F8D866" alt="PayDay2-2D" />
+      <img width="350" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Djurson&repo=PayDay2-2D&hide_border=true&icon_color=F8D866" alt="PayDay2-2D" />
     </a>
     <a href="https://github.com/Djurson/RayTracingTest">
-      <img width="350" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Djurson&repo=RayTracingTest&theme=react&hide_border=true&icon_color=F8D866" alt="RayTracingTest" />
+      <img width="350" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Djurson&repo=RayTracingTest&hide_border=true&icon_color=F8D866" alt="RayTracingTest" />
     </a>
   </p>
 

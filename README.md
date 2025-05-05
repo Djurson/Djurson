@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center" style="margin-bottom: 0; border-bottom: none;">Emil Djurson 👋</h1>
+<h1 align="center" style="margin-bottom: 0; border-bottom: 0;">Emil Djurson 👋</h1>
 
 <!-- Animated subtitle -->
 <p align="center" style="margin: 0;">

@@ -29,7 +29,7 @@ A top‑down 2D reimagining of Payday 2 in Unity. Focuses on level design, AI be
 A C# proof‑of‑concept for basic ray tracing techniques. Explores scene setup, light modeling, and performance considerations in rendering simple 3D scenes with unity.
 **Tech:** C# · Unity · Compute shaders (HLSL)
 
-#💡 Skills & Technologies
+# 💡 Skills & Technologies
 - **Languages:** Python · TypeScript · Go · C# · C++ · C · HLSL
 - **Frameworks & Tools:** Next.js · Docker · Unity · OpenGL
 - **Concepts:** Machine Learning · Feature Extraction · Microservices

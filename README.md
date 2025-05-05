@@ -1,5 +1,4 @@
 <style>
-  /* Ta bort onödiga marginaler under rubriker */
   h1, h2, h3, h4 {
     margin-bottom: 0;
     border-bottom: none;

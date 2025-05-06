@@ -9,12 +9,12 @@
   </a>
 </p>
 
-<!-- GitHub streak -->
+<!-- GitHub streak
 <p align="center" style="margin: 0;">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Djurson&short_numbers=true&theme=icegray" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Djurson" alt="GitHub Streak" />
   </a>
-</p>
+</p> -->
 
 ---
 

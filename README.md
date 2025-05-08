@@ -42,6 +42,9 @@
     <a href="https://github.com/Djurson/RayTracingTest">
       <img width="350" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Djurson&repo=RayTracingTest&hide_border=true&icon_color=F8D866" alt="RayTracingTest" />
     </a>
+    <a href="https://github.com/Djurson/TFYA65">
+      <img width="350" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Djurson&repo=TFYA65&hide_border=true&icon_color=F8D866" alt="TFYA65" />
+    </a>
   </p>
 
 </details>

@@ -24,7 +24,7 @@
   Here you’ll find a mix of academic labs, personal experiments, and open-source contributions
 </p>
 
-<details open> 
+<details> 
   <summary style="font-size: 18px; font-weight: bold;"><h2>🚀 Featured Projects<h2></summary>
   <p align="left">
     <a href="https://github.com/Skill-issue-coding/ml-model-for-image-classification">

@@ -33,6 +33,9 @@
     <a href="https://github.com/Djurson/studydash">
       <img width="350" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Djurson&repo=studydash&hide_border=true&icon_color=F8D866" alt="studydash" />
     </a>
+    <a href="https://github.com/Djurson/Test-Motocross-Products-DB">
+      <img width="350" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Djurson&repo=Test-Motocross-Products-DB&hide_border=true&icon_color=F8D866" alt="Test-Motocross-Products-DB" />
+    </a>
     <a href="https://github.com/Skill-issue-coding/Docker-GO-NextJS-Test">
       <img width="350" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Skill-issue-coding&repo=Docker-GO-NextJS-Test&hide_border=true&icon_color=F8D866" alt="Docker-GO-NextJS-Test" />
     </a>

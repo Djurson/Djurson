@@ -20,8 +20,7 @@
 
 <h2 style="border-bottom: none;">💬 About Me</h2>
 <p>
-  I’m Emil, a passionate computer science student based in Norrköping, Sweden. I’m passionate about machine learning, game development, and full-stack apps, and I love turning ideas into playful prototypes.  
-  Here you’ll find a mix of academic labs, personal experiments, and open-source contributions
+  I'm a 3rd year Mediatechnology student at [Linköping University](https://liu.se/), passionate about all things tech and creativity! My main interests lie in web development, but I also enjoy exploring software    and game development whenever I get the chance. Here you’ll find a mix of academic labs and personal experiments.
 </p>
 
 <details> 

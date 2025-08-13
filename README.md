@@ -20,7 +20,7 @@
 
 <h2 style="border-bottom: none;">💬 About Me</h2>
 <p>
-  I'm a 3rd year Mediatechnology student at Linköping University, passionate about all things tech and creativity! My main interests lie in web development, but I also enjoy exploring software    and game development whenever I get the chance. Here you’ll find a mix of academic labs and personal experiments.
+  I'm a 4th year Mediatechnology student at Linköping University, passionate about all things tech and creativity! My main interests lie in web development, but I also enjoy exploring software    and game development whenever I get the chance. Here you’ll find a mix of academic labs and personal experiments.
 </p>
 
 <details> 

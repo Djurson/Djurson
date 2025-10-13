@@ -88,4 +88,4 @@
 
 Feel free to reach out:
 
-- **✉️ Email:** emil@djurson.se
+- **✉️ Email:** emidj236@student.liu.se

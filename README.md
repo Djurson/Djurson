@@ -79,13 +79,3 @@
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
 </p>
-
-<h2 style="border-bottom: none;">📫 Get in Touch</h2>
-
-<p>
-  I’m always open to collaborations, feedback, or just a friendly chat about code and tech.
-</p>
-
-Feel free to reach out:
-
-- **✉️ Email:** emidj236@student.liu.se

@@ -21,7 +21,9 @@
 <h2 style="border-bottom: none;">💬 About Me</h2>
 I'm a 4th year Mediatechnology student at Linköping University, passionate about all things tech and creativity! My main interests lie in web development, but I also enjoy exploring software and game development whenever I get the chance. Here you’ll find a mix of academic labs and personal experiments.
 <br/>
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emil-djurson" />
+<a href="https://www.linkedin.com/in/emil-djurson/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emil-djurson" />
+</a>
 
 <h2 style="border-bottom: none;"> 💻 Tech Stack</h2>
 <div>

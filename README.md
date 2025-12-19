@@ -19,63 +19,63 @@
 ---
 
 <h2 style="border-bottom: none;">💬 About Me</h2>
-<p>
-  I'm a 4th year Mediatechnology student at Linköping University, passionate about all things tech and creativity! My main interests lie in web development, but I also enjoy exploring software    and game development whenever I get the chance. Here you’ll find a mix of academic labs and personal experiments.
-</p>
+I'm a 4th year Mediatechnology student at Linköping University, passionate about all things tech and creativity! My main interests lie in web development, but I also enjoy exploring software and game development whenever I get the chance. Here you’ll find a mix of academic labs and personal experiments.
+<br/>
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emil-djurson" />
 
-<details> 
-  <summary style="font-size: 18px; font-weight: bold;"><h2>🚀 Featured Projects<h2></summary>
-  <p align="left">
-    <a href="https://github.com/Skill-issue-coding/ml-model-for-image-classification">
-      <img width="350" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Skill-issue-coding&repo=ml-model-for-image-classification&hide_border=true&icon_color=F8D866" alt="ml-model-for-image-classification" />
-    </a>
-    <a href="https://github.com/Djurson/studydash">
-      <img width="350" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Djurson&repo=studydash&hide_border=true&icon_color=F8D866" alt="studydash" />
-    </a>
-    <a href="https://github.com/Djurson/Test-Motocross-Products-DB">
-      <img width="350" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Djurson&repo=Test-Motocross-Products-DB&hide_border=true&icon_color=F8D866" alt="Test-Motocross-Products-DB" />
-    </a>
-    <a href="https://github.com/Skill-issue-coding/Docker-GO-NextJS-Test">
-      <img width="350" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Skill-issue-coding&repo=Docker-GO-NextJS-Test&hide_border=true&icon_color=F8D866" alt="Docker-GO-NextJS-Test" />
-    </a>
-    <a href="https://github.com/Djurson/PayDay2-2D">
-      <img width="350" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Djurson&repo=PayDay2-2D&hide_border=true&icon_color=F8D866" alt="PayDay2-2D" />
-    </a>
-    <a href="https://github.com/Djurson/RayTracingTest">
-      <img width="350" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Djurson&repo=RayTracingTest&hide_border=true&icon_color=F8D866" alt="RayTracingTest" />
-    </a>
-    <a href="https://github.com/Djurson/TFYA65">
-      <img width="350" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Djurson&repo=TFYA65&hide_border=true&icon_color=F8D866" alt="TFYA65" />
-    </a>
-  </p>
+<h2 style="border-bottom: none;"> 💻 Tech Stack</h2>
+<div>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" />
+</div>
 
-</details>
+<h2 style="border-bottom: none;">📊 GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Djurson&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" /> <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Djurson&theme=transparent&hide_border=false" /> <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djurson&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
 
-<h2>💡 Skills & Technologies</h2>
-
-<p align="center"> 
-    <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
-    <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=fff" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff" />
-    <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" />
-    <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=fff" />
-    <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-    <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
-    <img src="https://img.shields.io/badge/cmake-darkgreen?style=for-the-badge&logo=cmake" />
-    <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white" />
-    <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff" />
-    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
-</p>
+<h2 style="border-bottom: none;">🔝 Top Contributed Repo</h2>
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Djurson&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true" />
+</div>
